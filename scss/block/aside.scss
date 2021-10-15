@@ -1,5 +1,5 @@
 .aside {
-    background-color: var(--dark-grey);
+    background-color: $dark-grey;
     margin-top: 95px;
   }
   
@@ -24,7 +24,7 @@
     line-height: 24px;
     padding-top: 28px;
     padding-bottom: 16px;
-    color: var(--dark-white);
+    color: $dark-white;
   }
   
   .aside__text {
@@ -32,6 +32,6 @@
     font-size: 13.972px;
     line-height: 17px;
     text-align: center;
-    color: var(--dark-white);
+    color: $dark-white;
   }
 
