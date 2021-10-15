@@ -443,7 +443,7 @@ display: none;
   opacity: 0.7; }
 
 .aside {
-  background-color: var(--dark-grey);
+  background-color: #222224;
   margin-top: 95px; }
 
 .aside__list {
@@ -465,14 +465,14 @@ display: none;
   line-height: 24px;
   padding-top: 28px;
   padding-bottom: 16px;
-  color: var(--dark-white); }
+  color: #E8E8E8; }
 
 .aside__text {
   font-weight: 300;
   font-size: 13.972px;
   line-height: 17px;
   text-align: center;
-  color: var(--dark-white); }
+  color: #E8E8E8; }
 
 .footer-wrp {
   background-image: url(../img/backgraund-footer.jpg);
