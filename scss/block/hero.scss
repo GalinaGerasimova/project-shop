@@ -1,0 +1,32 @@
+.hero {
+    display: flex;
+    background-color: $pink;
+    justify-content: center;
+    margin-bottom: 64px;
+  }
+  
+  .hero-wrp {
+    display: flex;
+    align-items: center;
+    padding: 0 0 0 92px;
+    width: 800px;
+  }
+  
+  .hero__title {
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 58px;
+    text-transform: uppercase;
+  }
+  
+  .hero__subtitle {
+    display: block;
+    font-size: 37px;
+    font-weight: 700;
+    line-height: 44px;
+  }
+  
+  .hero__pink {
+    color: $dark-pink;
+  }
+
